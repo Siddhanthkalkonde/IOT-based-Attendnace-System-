@@ -93,10 +93,11 @@ Install the following libraries through Arduino IDE Library Manager:
 ## 📱 RemoteXY Mobile App Configuration
 
 ### 1. Download RemoteXY App
-- use the zip file provided for gui configuration , and the code provided 
+- use the zip file provided for gui configuration , and the code provided , **Note**: Since Gui is pre-configured , no need to edit or make new gui , just connect app to to your esp 
 - **Android**: [Google Play Store](https://play.google.com/store/apps/details?id=com.smartprojects.remotexy)
 - **iOS**: [App Store](https://apps.apple.com/app/remotexy/id1012876026)
-- **How to Connect to GUI** - open app > go to add icon or '+' icon > select wifi Access Point > search for "Volta Attendnace" or any such AP 
+- **How to Connect to GUI** - open app > go to add icon or '+' icon > select wifi Access Point > search for "Volta Attendnace" or any such AP
+  
 
 ### 2. Connect to ESP32
 1. Power on your ESP32 device
