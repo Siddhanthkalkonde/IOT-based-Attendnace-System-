@@ -21,7 +21,7 @@ A comprehensive RFID-based attendance management system built with ESP32 that in
 - **MFRC522 RFID Reader Module**
 - **DS1302 Real Time Clock Module**
 - **Rotary Encoder** (with push button)
-- **Push Button** (for mode switching)
+- **Push Button** (for mode switching) - comes inbuilt with rotary encoder
 - **RFID Cards/Tags** (13.56MHz)
 
 ### Optional Components
